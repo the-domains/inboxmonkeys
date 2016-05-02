@@ -1,4 +1,4 @@
-name: inboxmonkeys
+name: INBOXMonkeys
 favicon: null
 layout_spectrum: 0.18176
 typography_spectrum: 0.7841096092015505
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f8f8fa'
+    - '#f5f9fc'
     - '#000000'
-    - '#009eac'
-    - '#9e7649'
-    - '#126266'
-  brandStrength: 0.875
-  lightness: 0.9375
-  saturation: 0.3125
-  rhythmicContrast: 0.25
+    - '#d9ccc3'
+    - '#d29657'
+    - '#44403f'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[inboxmonkeys]]></title>
         <description><![CDATA[inboxmonkeys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/inboxmonkeys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 17:59:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 18:13:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/inboxmonkeys/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[THE MON'KEY' TO SUCCESS]]></title>
             <description><![CDATA[<article><h1>THE MON'KEY' TO SUCCESS</h1><p>Virtual Assisting | Digital Media Management | Training</p></article>]]></description>
-            <link>undefinedthe-monkey-to-success/index.html</link>
+            <link>https://thegrid.ai/inboxmonkeys/the-monkey-to-success/index.html</link>
             <guid isPermaLink="false">86038aed-5b1a-44a5-a22e-f66a18a97797</guid>
-            <pubDate>Mon, 02 May 2016 17:58:54 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 18:13:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
